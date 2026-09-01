@@ -58,4 +58,65 @@ infrastructure, industry-specific deployments, or technical pre-sales.
 An FDE opportunity should therefore be evaluated by its responsibilities,
 not by its title alone.
 
+### FDE vs Related Roles
+
+The boundaries between forward deployed engineering and related roles vary between companies. The clearest distinction is usually the combination of customer proximity, hands-on engineering, and production ownership.
+
+#### FDE vs Product Engineer
+
+A product engineer usually works from an internally defined product roadmap and builds features intended for a broad group of users.
+
+An FDE works more directly with a particular customer or operational team. The FDE helps discover the problem, adapts the solution to the customer’s environment, supports its deployment, and brings lessons from the field back into the core product.
+
+#### FDE vs Solutions Engineer
+
+A solutions engineer commonly focuses on demonstrations, technical validation, proofs of concept, and helping customers evaluate or purchase a product.
+
+An engineering-focused FDE generally has deeper implementation and production ownership. This can include writing production code, creating integrations, handling deployment constraints, monitoring the system, and improving it after launch.
+
+Some commercially aligned FDE roles also support pre-sales activities, so candidates should examine the actual responsibilities rather than relying only on the job title.
+
+#### FDE vs Technical Consultant
+
+A technical consultant may advise customers, design solutions, and sometimes build software.
+
+An FDE is typically embedded more closely in the delivery cycle and remains accountable for turning a problem into a working production system. FDEs also commonly convert lessons from customer-specific deployments into reusable tools, product features, or implementation patterns.
+
+### Common FDE Archetypes
+
+The FDE title covers several related but distinct roles.
+
+#### Product-Builder FDE
+
+Builds full-stack solutions for strategic customers and converts successful customer-specific work into reusable product capabilities.
+
+#### Applied AI or Agent FDE
+
+Builds production AI applications involving models, agents, retrieval, tool use, evaluations, guardrails, and human escalation.
+
+#### Integration and Implementation FDE
+
+Connects products to customer systems through APIs, webhooks, data pipelines, identity systems, cloud environments, and legacy infrastructure.
+
+#### Revenue or Pre-Sales FDE
+
+Supports technical discovery, proofs of concept, customer onboarding, executive presentations, adoption, and account expansion while retaining hands-on engineering responsibilities.
+
+#### Domain-Specialist FDE
+
+Combines engineering ability with expertise in a particular industry, such as healthcare, legal services, finance, semiconductors, or manufacturing.
+
+#### Infrastructure, Security, or Government FDE
+
+Focuses on secure deployment, networking, identity and access management, compliance, self-hosted environments, reliability, and mission-specific requirements.
+
+#### Robotics or Physical-Systems FDE
+
+Deploys and supports software in physical environments such as robotics, manufacturing, autonomous systems, or industrial operations. These roles may involve hardware integration and substantial customer-site work.
+
 ## Understanding the FDE Role
+- [Forward Deployed Engineer at OpenAI](https://openai.com/careers/forward-deployed-engineer-%28fde%29-seattle-seattle/) — A first-party role description showing how FDEs own customer discovery, technical scoping, system design, implementation, production rollout, adoption, and product feedback.
+
+- [How Forward Deployed Engineering Is Redefining Client Transformation](https://www.ibm.com/think/perspectives/how-forward-deployed-engineering-is-redefining-client-transformation) — An overview of forward deployed engineering as an embedded, outcome-focused operating model rather than simply a new engineering job title.
+
+- [Forward Deployed Units: IBM Consulting’s Field Model for Scaling AI](https://www.ibm.com/think/perspectives/forward-deployed-units-ibm-consulting-field-model-scaling-ai-transformation) — Explains how multidisciplinary forward deployed teams combine engineering, business context, AI, and change management to deliver production outcomes.
