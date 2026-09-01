@@ -120,3 +120,18 @@ Deploys and supports software in physical environments such as robotics, manufac
 - [How Forward Deployed Engineering Is Redefining Client Transformation](https://www.ibm.com/think/perspectives/how-forward-deployed-engineering-is-redefining-client-transformation) — An overview of forward deployed engineering as an embedded, outcome-focused operating model rather than simply a new engineering job title.
 
 - [Forward Deployed Units: IBM Consulting’s Field Model for Scaling AI](https://www.ibm.com/think/perspectives/forward-deployed-units-ibm-consulting-field-model-scaling-ai-transformation) — Explains how multidisciplinary forward deployed teams combine engineering, business context, AI, and change management to deliver production outcomes.
+
+## Core Skills
+
+### Production Software Engineering
+
+FDEs need strong software-engineering fundamentals to build, integrate,
+deploy, and operate reliable customer-facing systems.
+
+- [The Python Tutorial](https://docs.python.org/3/tutorial/) — The official introduction to Python’s core language features, data structures, modules, error handling, and standard library. Best suited to readers who already understand basic programming.
+
+- [FastAPI Tutorial](https://fastapi.tiangolo.com/tutorial/) — A practical guide to building Python APIs with request validation, authentication, error handling, testing, databases, and deployment.
+
+- [PostgreSQL Tutorial](https://www.postgresql.org/docs/current/tutorial.html) — The official introductory guide to relational databases and SQL using PostgreSQL, including queries, joins, aggregates, transactions, and advanced database features.
+
+- [Docker Get Started](https://docs.docker.com/get-started/) — Docker’s official introduction to containers, images, application packaging, persistent data, multi-container applications, and deployment workflows.
