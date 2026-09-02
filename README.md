@@ -175,3 +175,7 @@ technical and nontechnical stakeholders.
 - [User Research in Discovery](https://www.gov.uk/service-manual/user-research/user-research-in-discovery) — A practical guide to identifying users, understanding their current workflows, uncovering problems, conducting interviews and observation, and using evidence to scope a service.
 
 - [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing/overview) — Google’s courses on writing clear technical documentation, organizing information, explaining complex ideas, and communicating effectively with technical audiences.
+
+- [Problem Framing](https://www.atlassian.com/team-playbook/plays/problem-framing) — A practical workshop for identifying who is affected by a problem, what is happening, why it matters, and how to create a concise problem statement before proposing solutions.
+
+- [Measuring the Success of Your Service](https://www.gov.uk/service-manual/measuring-success/measuring-the-success-of-your-service) — Guidance on defining meaningful performance measures and combining operational metrics with user research to determine whether a service is producing the intended outcome.
