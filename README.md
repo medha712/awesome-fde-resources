@@ -177,3 +177,32 @@ technical and nontechnical stakeholders.
 - [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing/overview) — Google’s courses on writing clear technical documentation, organizing information, explaining complex ideas, and communicating effectively with technical audiences.
 
 - [Measuring the Success of Your Service](https://www.gov.uk/service-manual/measuring-success/measuring-the-success-of-your-service) — Guidance on defining meaningful performance measures and combining operational metrics with user research to determine whether a service is producing the intended outcome.
+
+## Portfolio Projects
+
+A strong FDE portfolio should demonstrate the ability to take a real
+operational problem from discovery through production—not only build a
+technical demo.
+
+A portfolio project should ideally include:
+
+- A real user, customer, or operational workflow
+- A clearly defined problem and measurable outcome
+- Messy, incomplete, or permission-controlled data
+- APIs, webhooks, or third-party integrations
+- An AI component with documented failure modes
+- Automated tests and an evaluation dataset
+- Authentication, authorization, privacy, and security decisions
+- Deployment instructions, monitoring, and rollback planning
+- An architecture diagram and important technical decisions
+- A short demonstration explaining user value and engineering trade-offs
+
+### Portfolio Documentation and Production Readiness
+
+- [About Repository READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) — GitHub’s guidance on explaining what a project does, why it is useful, how to run it, and where users can find help.
+
+- [The C4 Model](https://c4model.com/) — A structured approach for creating system-context, container, component, and deployment diagrams that communicate software architecture at different levels of detail.
+
+- [Architecture Decision Records](https://github.com/architecture-decision-record/architecture-decision-record) — Templates and examples for recording important architectural decisions, their context, available options, and consequences.
+
+- [Reliable Product Launches at Scale](https://sre.google/sre-book/reliable-product-launches/) — A Google SRE chapter covering production-readiness reviews, launch checklists, dependencies, capacity planning, failure modes, monitoring, automation, and operational ownership.
