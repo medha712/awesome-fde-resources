@@ -174,8 +174,4 @@ technical and nontechnical stakeholders.
 
 - [User Research in Discovery](https://www.gov.uk/service-manual/user-research/user-research-in-discovery) — A practical guide to identifying users, understanding their current workflows, uncovering problems, conducting interviews and observation, and using evidence to scope a service.
 
-- [Better Team Decision Making](https://www.atlassian.com/team-playbook/examples/making-decisions) — A collection of practical frameworks for problem framing, clarifying decision ownership, evaluating trade-offs, and making decisions with stakeholders.
-
-- [Goals, Signals, and Measures](https://www.atlassian.com/team-playbook/plays/goals-signals-measures) — A workshop-based approach for defining desired outcomes, identifying signals of progress, and selecting measurable success criteria before beginning a project.
-
 - [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing/overview) — Google’s courses on writing clear technical documentation, organizing information, explaining complex ideas, and communicating effectively with technical audiences.
