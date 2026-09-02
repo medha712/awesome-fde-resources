@@ -19,7 +19,6 @@ capabilities.
 - [Core Skills](#core-skills)
 - [Portfolio Projects](#portfolio-projects)
 - [Interview Preparation](#interview-preparation)
-- [Contributing](#contributing)
 
 ## Start Here
 
