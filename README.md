@@ -135,3 +135,18 @@ deploy, and operate reliable customer-facing systems.
 - [PostgreSQL Tutorial](https://www.postgresql.org/docs/current/tutorial.html) — The official introductory guide to relational databases and SQL using PostgreSQL, including queries, joins, aggregates, transactions, and advanced database features.
 
 - [Docker Get Started](https://docs.docker.com/get-started/) — Docker’s official introduction to containers, images, application packaging, persistent data, multi-container applications, and deployment workflows.
+
+### AI Application Engineering
+
+FDEs working with AI systems need to understand how to design agents,
+connect them to tools and knowledge, evaluate their behavior, and manage
+production risks.
+
+- [A Practical Guide to Building AI Agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/) — Introduces agent use-case selection, model and tool design, instructions, orchestration patterns, and guardrails for production systems.
+
+- [Introducing Contextual Retrieval](https://www.anthropic.com/engineering/contextual-retrieval) — Explains retrieval-augmented generation, embeddings, BM25, chunking, contextual retrieval, reranking, and the trade-offs involved in grounding AI applications on external knowledge.
+
+- [Working with Evals](https://developers.openai.com/api/docs/guides/evals) — A practical guide to creating evaluation datasets, testing model behavior, defining grading criteria, and comparing application performance across changes.
+
+- [OWASP Top 10 for LLM and Generative AI Applications](https://genai.owasp.org/initiatives/top-10-for-llm-and-genai/) — A security reference covering risks such as prompt injection, sensitive-information disclosure, improper output handling, excessive agency, and insecure model or data supply chains.
+
