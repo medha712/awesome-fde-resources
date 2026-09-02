@@ -197,8 +197,16 @@ A portfolio project should ideally include:
 - An architecture diagram and important technical decisions
 - A short demonstration explaining user value and engineering trade-offs
 
-## Portfolio Projects
+## Interview Preparation
 
-Resources for building and presenting end-to-end FDE projects.
+FDE interview processes vary between companies, but commonly assess
+practical coding, system design, problem decomposition, customer judgment,
+communication, and production ownership.
 
-- [About Repository READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) — Guidance for clearly documenting a project, its purpose, setup, usage, and maintenance.
+- [Forward Deployed Engineer Interview Guide](https://www.theforwarddeployed.io/interview/method) — An FDE-specific overview of interview stages, coding screens, decomposition exercises, unfamiliar codebases, AI system design, customer simulations, and leadership discussions.
+
+- [Forward Deployed Engineer Interview Questions](https://fdepulse.com/career/forward-deployed-engineer-interview-questions/) — Practice questions covering coding, system design, customer scenarios, deployment automation, and behavioral interviews.
+
+- [OpenAI Interview Guide](https://openai.com/interview-guide/) — OpenAI’s official explanation of its application process, skills assessments, pair coding, technical tests, final interviews, communication expectations, and policies regarding AI tools.
+
+- [Anthropic Careers: How We Hire](https://www.anthropic.com/careers) — Anthropic’s official guidance on live coding, debugging, technical trade-offs, permitted documentation use, prior experience, and nontechnical interview discussions.
