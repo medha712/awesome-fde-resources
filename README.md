@@ -197,12 +197,8 @@ A portfolio project should ideally include:
 - An architecture diagram and important technical decisions
 - A short demonstration explaining user value and engineering trade-offs
 
-### Portfolio Documentation and Production Readiness
+## Portfolio Projects
 
-- [About Repository READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) — GitHub’s guidance on explaining what a project does, why it is useful, how to run it, and where users can find help.
+Resources for building and presenting end-to-end FDE projects.
 
-- [The C4 Model](https://c4model.com/) — A structured approach for creating system-context, container, component, and deployment diagrams that communicate software architecture at different levels of detail.
-
-- [Architecture Decision Records](https://github.com/architecture-decision-record/architecture-decision-record) — Templates and examples for recording important architectural decisions, their context, available options, and consequences.
-
-- [Reliable Product Launches at Scale](https://sre.google/sre-book/reliable-product-launches/) — A Google SRE chapter covering production-readiness reviews, launch checklists, dependencies, capacity planning, failure modes, monitoring, automation, and operational ownership.
+- [About Repository READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) — Guidance for clearly documenting a project, its purpose, setup, usage, and maintenance.
