@@ -150,3 +150,18 @@ production risks.
 
 - [OWASP Top 10 for LLM and Generative AI Applications](https://genai.owasp.org/initiatives/top-10-for-llm-and-genai/) — A security reference covering risks such as prompt injection, sensitive-information disclosure, improper output handling, excessive agency, and insecure model or data supply chains.
 
+### Enterprise Integration and Deployment
+
+FDEs frequently deploy software into customer environments with existing
+identity systems, cloud infrastructure, security controls, and delivery
+processes.
+
+- [OAuth 2.0 and OpenID Connect Protocols](https://learn.microsoft.com/en-us/entra/identity-platform/v2-protocols) — Explains authentication and authorization concepts including identity providers, clients, protected resources, access tokens, ID tokens, refresh tokens, and common OAuth flows.
+
+- [Best Practices for Using Webhooks](https://docs.github.com/en/webhooks/using-webhooks/best-practices-for-using-webhooks) — Covers secure webhook delivery, secret validation, event handling, response timing, redelivery, and protection against replay attacks.
+
+- [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) — A framework for designing and reviewing secure, reliable, efficient, cost-effective, and sustainable cloud workloads.
+
+- [GitHub Actions Quickstart](https://docs.github.com/en/actions/get-started/quickstart) — Introduces continuous integration and delivery workflows for automatically building, testing, and deploying software.
+
+- [Kubernetes Concepts](https://kubernetes.io/docs/concepts/overview/) — The official introduction to Kubernetes architecture, workloads, services, storage, configuration, security, policies, and cluster administration.
