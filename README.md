@@ -176,6 +176,4 @@ technical and nontechnical stakeholders.
 
 - [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing/overview) — Google’s courses on writing clear technical documentation, organizing information, explaining complex ideas, and communicating effectively with technical audiences.
 
-- [Problem Framing](https://www.atlassian.com/team-playbook/plays/problem-framing) — A practical workshop for identifying who is affected by a problem, what is happening, why it matters, and how to create a concise problem statement before proposing solutions.
-
 - [Measuring the Success of Your Service](https://www.gov.uk/service-manual/measuring-success/measuring-the-success-of-your-service) — Guidance on defining meaningful performance measures and combining operational metrics with user research to determine whether a service is producing the intended outcome.
